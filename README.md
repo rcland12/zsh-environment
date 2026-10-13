@@ -5,7 +5,7 @@ zsh + Oh My Zsh + Powerlevel10k + plugins, and my dotfiles.
 ## New machine
 
 ```sh
-git clone <this-repo-url> ~/dev/zsh-environment
+git clone git@github.com:rcland12/zsh-environment.git ~/dev/zsh-environment
 cd ~/dev/zsh-environment && ./install.sh     # --no-packages to skip apt/sudo
 $EDITOR ~/.config/shell/secrets.sh           # add API keys
 exec zsh
