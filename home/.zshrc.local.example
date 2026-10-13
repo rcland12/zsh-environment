@@ -1,0 +1,2 @@
+# ~/.zshrc.local: interactive zsh config specific to THIS machine. Not tracked in git.
+# Sourced at the end of ~/.zshrc - aliases, functions, startup hooks for local projects.
